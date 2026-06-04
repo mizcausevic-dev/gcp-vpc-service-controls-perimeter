@@ -2,7 +2,7 @@
 
 Operator surface for GCP VPC Service Controls perimeter posture, exception lanes, perimeter drift detection, and ingress/egress evidence routing.
 
-- **Live:** [`https://vpcsc.kineticgain.com/`](https://vpcsc.kineticgain.com/) _(pending Hostinger subdomain provisioning)_
+- **Live:** [`https://vpcsc.kineticgain.com/`](https://vpcsc.kineticgain.com/)
 - **Lane:** Multi-Cloud / Security · GCP signal
 - **Repo:** [`mizcausevic-dev/gcp-vpc-service-controls-perimeter`](https://github.com/mizcausevic-dev/gcp-vpc-service-controls-perimeter)
 
